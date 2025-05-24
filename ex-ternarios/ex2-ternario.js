@@ -14,6 +14,7 @@ function hipotecaSalvaje(edad) {
     return 30000;
 }
 
+
 // Caso de prueba 1: Edad mayor a 40
 // Entrada: 45
 // Salida esperada: 50000
